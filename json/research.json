@@ -1,0 +1,454 @@
+﻿{
+    "Content": [
+        {
+            "ID": "1",
+            "Title": "Evolution and Underpinnings of MSF's Basic <em>RiderCourse</em>, a Learn-To-Ride Curriculum for Novices",
+            "ClickAlt": "'The Evolution and Underpinnings of MSFs Basic RiderCourse, a Learn-To-Ride Curriculum for Novices (Video) View'",
+            "Orientation": "landscape",
+            "DocLink": "http://content.jwplatform.com/videos/sjTfLJuP-DoHFwbEM.mp4",
+            "ImgLink": "images/research/The_Evolution_and_Underpinnings_of_MSFs_Basic_RiderCourse.jpg",
+            "Type": "Video",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "2",
+            "Title": "BRC: A Historical Perspective",
+            "ClickAlt": "The BRC: A Historical Perspective (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/research/BRC_Historical_Perspective.pdf",
+            "ImgLink": "images/research/BRC_Historical_Perspective.jpg",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "3",
+            "Title": "Preliminary Look at Safety Critical Events From the Motorcyclists' Perspective",
+            "ClickAlt": "A Preliminary Look at Safety Critical Events From the Motorcyclists Perspective (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/imsc2013/Oct17_Session1-Williams_Heideman-A_preliminary_look_at_safety_critical_events_PAPER.pdf",
+            "ImgLink": "images/library/imsc2013/Oct17_Session1-Williams_Heideman-A_preliminary_look_at_safety_critical_events_PAPER.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Training Effectiveness" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "4",
+            "Title": "Preliminary Look at Safety Critical Events From the Motorcyclists' Perspective",
+            "ClickAlt": "A Preliminary Look at Safety Critical Events From the Motorcyclists Perspective (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/imsc2013/Oct17_Session1-Williams_Heideman-A_preliminary_look_at_safety_critical_events_slides.pdf",
+            "ImgLink": "images/library/imsc2013/Oct17_Session1-Williams_Heideman-A_preliminary_look_at_safety_critical_events_slides.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Training Effectiveness" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "5",
+            "Title": "Exploratory Analysis of Motorcyclist Apparel Using Naturalistic Riding Data",
+            "ClickAlt": "An Exploratory Analysis of Motorcyclist Apparel Using Naturalistic Riding Data (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/imsc2013/Oct17_Session2-McLaughlin-An_Exploratory_Analysis_of_Motorcyclist_Apparel_Using_Naturalisti_Riding_Data_PAPER.pdf",
+            "ImgLink": "images/library/imsc2013/Oct17_Session2-McLaughlin-An_Exploratory_Analysis_of_Motorcyclist_Apparel_Using_Naturalisti_Riding_Data_PAPER.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "MSF Naturalistic Studies" }
+            ]
+        },
+        {
+            "ID": "6",
+            "Title": "Exploratory Analysis of Motorcyclist Apparel Using Naturalistic Riding Data",
+            "ClickAlt": "An Exploratory Analysis of Motorcyclist Apparel Using Naturalistic Riding Data (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/imsc2013/Oct17_Session2-McLaughlin-An_Exploratory_Analysis_of_Motorcyclist_Apparel_Using_Naturalisti_Riding_Data_slides.pdf",
+            "ImgLink": "images/library/imsc2013/Oct17_Session2-McLaughlin-An_Exploratory_Analysis_of_Motorcyclist_Apparel_Using_Naturalisti_Riding_Data_slides.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "MSF Naturalistic Studies" }
+            ]
+        },
+        {
+            "ID": "7",
+            "Title": "RETS History and Status",
+            "ClickAlt": "RETS History and Status (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/imsc2006/Ochs-RETS_History_and_Status-slides.pdf",
+            "ImgLink": "images/library/imsc2006/Ochs-RETS_History_and_Status-slides.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "8",
+            "Title": "MSF Training Program Evaluation",
+            "ClickAlt": "MSF Training Program Evaluation (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/imsc2006/Williams-Rider_Training_Program_Evaluation-slides.pdf",
+            "ImgLink": "images/library/imsc2006/Williams-Rider_Training_Program_Evaluation-slides.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "9",
+            "Title": "Competencies and Abilities of Motorcycle Safety Foundation Certified RiderCoach Trainers",
+            "ClickAlt": "Competencies and Abilities of Motorcycle Safety Foundation Certified RiderCoach Trainers (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/imsc2006/Ochs-Competencies_and_Abilities_of_RiderCoach_Trainer-Paper.pdf",
+            "ImgLink": "images/library/imsc2006/Ochs-Competencies_and_Abilities_of_RiderCoach_Trainer-Paper.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "10",
+            "Title": "Criteria for Program Evaluation in State Motorcycle Safety Programs: State Administrator Perspectives",
+            "ClickAlt": "Criteria for Program Evaluation in State Motorcycle Safety Programs: State Administrator Perspectives (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/imsc2001/Ochs.pdf",
+            "ImgLink": "images/library/imsc2001/Ochs.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "11",
+            "Title": "MSF RETS: A System Designed to Succeed",
+            "ClickAlt": "MSF RETS: A System Designed to Succeed (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/MSF_RETS-A_System_Designed_to_Succeed.pdf",
+            "ImgLink": "images/library/MSF_RETS-A_System_Designed_to_Succeed.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Professional Development" },
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "12",
+            "Title": "MSF RETS: A System Designed to Succeed",
+            "ClickAlt": "MSF RETS: A System Designed to Succeed (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/VRU_Intl_Conference-MSF_RETS.pdf",
+            "ImgLink": "images/library/VRU_Intl_Conference-MSF_RETS.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Professional Development" },
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "13",
+            "Title": "Preparing Riders to S.E.E. Better: MSF Tools for Improving Hazard Perception",
+            "ClickAlt": "Preparing Riders to S.E.E. Better (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/MSF_Tools_for_Improving_Hazard_Perception.pdf",
+            "ImgLink": "images/library/MSF_Tools_for_Improving_Hazard_Perception.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "14",
+            "Title": "Preparing Riders to S.E.E. Better: MSF Tools for Improving Hazard Perception",
+            "ClickAlt": "Preparing Riders to S.E.E. Better (Presentation) PDF Download",
+            "Orientation": "landscape",
+            "DocLink": "downloads/PreparingRiderstoSEEBetterPresentation.pdf",
+            "ImgLink": "images/library/PreparingRiderstoSEEBetterPresentation.png",
+            "Type": "Presentation",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "15",
+            "Title": "Riding Straight Initiatives, Presented to NHTSA",
+            "ClickAlt": "Riding Straight Initiatives (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/Riding_Straight_Initiatives.pdf",
+            "ImgLink": "images/library/Riding_Straight_Initiatives.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "16",
+            "Title": "Proposal for Defining, Measuring and Documenting the Effects of Safety Renewal",
+            "ClickAlt": "A Proposal for Defining, Measuring and Documenting the Effects of Safety Renewal (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/MSF_The_Effects_of_Safety_Renewal.pdf",
+            "ImgLink": "images/library/MSF_The_Effects_of_Safety_Renewal.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Training Effectiveness" },
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "17",
+            "Title": "Certification Processes for Motorcycle Safety Training Professionals",
+            "ClickAlt": "Certification Processes for Motorcycle Safety Training Professionals (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/MSF_Certification_Process.pdf",
+            "ImgLink": "images/library/MSF_Certification_Process.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "18",
+            "Title": "Developing the Motorcycle Safety Foundation Rider Education and Training System",
+            "ClickAlt": "Developing the Motorcycle Safety Foundation Rider Education and Training System (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/Developing_the_MSF_RETS.pdf",
+            "ImgLink": "images/library/Developing_the_MSF_RETS.png",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "19",
+            "Title": "Rider Education and Training System Standards",
+            "ClickAlt": "Rider Education and Training System Standards (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/Rider_Education_and_Training_System_Standards.pdf",
+            "ImgLink": "images/library/Rider-Education-and-Training-System-Standards.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "MSF Standards" },
+                { "Content": "Rider Training Curriculum" }
+            ]
+        },
+        {
+            "ID": "20",
+            "Title": "Development of Motorcycle Licensing Skill and Knowledge Testing Protocol",
+            "ClickAlt": "Development of Motorcycle Licensing Skill and Knowledge Testing Protocol (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/Development_of_Motorcycle_Licensing_Skill_and_Knowledge_Testing_Protocol.pdf",
+            "ImgLink": "images/library/Development-of-Motorcycle-Licensing-Skill-and-Knowledge-Testing-Protocol.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Licensing" }
+            ]
+        },
+        {
+            "ID": "21",
+            "Title": "BRC Combined ResLab Results - 2005 SMSA Conference",
+            "ClickAlt": "BRC Combined ResLab Results - 2005 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/BRC_Combined_ResLab_Results_2005_SMSA_Conference.pdf",
+            "ImgLink": "images/research/BRC_Combined_ResLab_Results_2005_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "22",
+            "Title": "Coaching Tips for 8 to 1 Compact Ranges - 2006 SMSA Conference",
+            "ClickAlt": "Coaching Tips for 8 to 1 Compact Ranges - 2006 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Coaching_Tips_for_8_to_1_Compact_Ranges_2006_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Coaching_Tips_for_8_to_1_Compact_Ranges_2006_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "23",
+            "Title": "Conspicuity by Other Names - 2012 AMA Women's Conference",
+            "ClickAlt": "Conspicuity by Other Names - 2012 AMA Women's Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Conspicuity_by_Other_Names_2012_AMA_Womens_Conference.pdf",
+            "ImgLink": "images/research/Conspicuity_by_Other_Names_2012_AMA_Womens_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Human Factors" },
+                { "Content": "Vehicle Factors" }
+            ]
+        },
+        {
+            "ID": "24",
+            "Title": "Expanding QA Processes - 2006 SMSA Conference",
+            "ClickAlt": "Expanding QA Processes - 2006 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Expanding_QA_Processes_2006_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Expanding_QA_Processes_2006_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "25",
+            "Title": "Expanding Site Visit Effectiveness Through Technology - 2006  SMSA Conference",
+            "ClickAlt": "Expanding Site Visit Effectiveness Through Technology - 2006  SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Expanding_Site_Visit_Effectiveness_Through_Technology_2006_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Expanding_Site_Visit_Effectiveness_Through_Technology_2006_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Quality Assurance" }
+            ]
+        },
+        {
+            "ID": "26",
+            "Title": "Expanding Your Horizons as an RC - Getting into SAM - 2006 SMSA Conference",
+            "ClickAlt": "Expanding Your Horizons as an RC - Getting into SAM - 2006 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Expanding_Your_Horizons_as_an_RC_Getting_into_SAM_2006_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Expanding_Your_Horizons_as_an_RC_Getting_into_SAM_2006_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "27",
+            "Title": "Measuring Rider Ed Outcomes - 2005 SMSA Conference",
+            "ClickAlt": "Measuring Rider Ed Outcomes - 2005 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Measuring_Rider_Ed_Outcomes_2005_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Measuring_Rider_Ed_Outcomes_2005_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Training Effectiveness" }
+            ]
+        },
+        {
+            "ID": "28",
+            "Title": "MSF100 Motorcyclists Naturalistic Study - Exploring Human Factors 2014",
+            "ClickAlt": "MSF100 Motorcyclists Naturalistic Study - Exploring Human Factors 2014 (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/MSF100_Motorcyclists_Naturalistic_Study_Exploring_Human_Factors_2014.pdf",
+            "ImgLink": "images/research/MSF100_Motorcyclists_Naturalistic_Study_Exploring_Human_Factors_2014.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "MSF Naturalistic Studies" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "29",
+            "Title": "MSF100 Motorcyclists Naturalistic Study - Preliminary Results 2013",
+            "ClickAlt": "MSF100 Motorcyclists Naturalistic Study - Preliminary Results 2013 (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/MSF100_Motorcyclists_Naturalistic_Study_Preliminary_Results_2013.pdf",
+            "ImgLink": "images/research/MSF100_Motorcyclists_Naturalistic_Study_Preliminary_Results_2013.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "MSF Naturalistic Studies" },
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "30",
+            "Title": "Older Riders and Alcohol - 2006 Lifesavers Conference",
+            "ClickAlt": "Older Riders and Alcohol - 2006 Lifesavers Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Older_Riders_and_Alcohol_2006_Lifesavers_Conference.pdf",
+            "ImgLink": "images/research/Older_Riders_and_Alcohol_2006_Lifesavers_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "31",
+            "Title": "Programs and Behaviors that Can Improve Conspicuity - 2013 Lifesavers Conference",
+            "ClickAlt": "Programs and Behaviors that Can Improve Conspicuity - 2013 Lifesavers Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Programs_and_Behaviors_that_Can_Improve_Conspicuity_2013_Lifesavers_Conference.pdf",
+            "ImgLink": "images/research/Programs_and_Behaviors_that_Can_Improve_Conspicuity_2013_Lifesavers_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Human Factors" },
+                { "Content": "Vehicle Factors" }
+            ]
+        },
+        {
+            "ID": "32",
+            "Title": "Quality Assurance & Research Efforts Overview - 03-05 RC Surveys 2005 - RCT Conference",
+            "ClickAlt": "Quality Assurance & Research Efforts Overview - 03-05 RC Surveys 2005 - RCT Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Quality_Assurance_Research_Efforts_Overview_03_05_RC_Surveys_2005_RCT_Conference.pdf",
+            "ImgLink": "images/research/Quality_Assurance_Research_Efforts_Overview_03_05_RC_Surveys_2005_RCT_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Quality Assurance" },
+                { "Content": "Stake-holder Analyses" }
+            ]
+        },
+        {
+            "ID": "33",
+            "Title": "RC Prep Course Evaluations - 2005 RCT Conference",
+            "ClickAlt": "RC Prep Course Evaluations - 2005 RCT Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/RC_Prep_Course_Evaluations_2005_RCT_Conference.pdf",
+            "ImgLink": "images/research/RC_Prep_Course_Evaluations_2005_RCT_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" }
+            ]
+        },
+        {
+            "ID": "34",
+            "Title": "Rider Choices - 2013 Women in the Wind Conference",
+            "ClickAlt": "Rider Choices - 2013 Women in the Wind Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Rider_Choices_2013_Women_in_the_Wind_Conference.pdf",
+            "ImgLink": "images/research/Rider_Choices_2013_Women_in_the_Wind_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Human Factors" }
+            ]
+        },
+        {
+            "ID": "35",
+            "Title": "RiderCoach Trainer Questionnaire Results - 2005",
+            "ClickAlt": "RiderCoach Trainer Questionnaire Results - 2005 (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/RiderCoach_Trainer_Questionnaire_Results_2005.pdf",
+            "ImgLink": "images/research/RiderCoach_Trainer_Questionnaire_Results_2005.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Professional Development" },
+                { "Content": "Stake-holder Analyses" }
+            ]
+        },
+        {
+            "ID": "36",
+            "Title": "Working with Adjusted Ranges - 2006 SMSA Conference",
+            "ClickAlt": "Working with Adjusted Ranges - 2006 SMSA Conference (Paper) PDF Download",
+            "Orientation": "portrait",
+            "DocLink": "downloads/research/Working_with_Adjusted_Ranges_2006_SMSA_Conference.pdf",
+            "ImgLink": "images/research/Working_with_Adjusted_Ranges_2006_SMSA_Conference.jpg",
+            "Type": "Paper",
+            "Categories": [
+                { "Content": "Rider Training Curriculum" },
+                { "Content": "Professional Development" }
+            ]
+        }
+    ]
+}

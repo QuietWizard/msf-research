@@ -1,0 +1,52 @@
+﻿/******************************************************/
+/********** ~/Research.aspx ***************************/
+/******************************************************/
+#pageMainContent {
+    width: 100%;
+}
+#linked-content-panel {
+    width: 100%;
+}
+.panel-heading a,
+.panel-heading a:active,
+.panel-heading a:hover,
+.panel-heading a:visited {
+    cursor: pointer;
+    text-decoration: none;
+}
+.panel-body {
+    padding-top: 20px;
+}
+.panel-body img {
+    border: 1px solid #000000;
+    box-shadow: 2px 2px 5px #363636;
+}
+.img-portrait {
+    height: 310px;
+    padding: 10px;
+    text-align: center;
+}
+.img-landscape {
+    height: 310px;
+    padding: 5% 10px 10px 10px;
+    text-align: center;
+}
+.img-portrait p,
+.img-landscape p {
+    text-align: center;
+    padding-top: 5px;
+}
+.no-docs {
+    padding: 10px 0;
+    text-align: center;
+}
+@media (min-width:768px) {
+    .width-66percent {
+        width: 66%;
+    }
+}
+@media (max-width:767px) {
+    .width-66percent {
+        width: 100%;
+    }
+}

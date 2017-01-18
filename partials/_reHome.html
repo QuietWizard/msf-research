@@ -1,0 +1,153 @@
+﻿<!-- Side Bar -->
+<div id="panel" class="panel-group col-lg-4 col-md-12 col-sm-12 col-xs-12 pull-left">
+    <!-- Menu Panel Wrapper: *Change Panel ID - Used to only open one menu at a time* -->
+    <div id="sidebar" data-spy="affix" data-offset-top="239" data-offset-bottom="120">
+        <!-- Sidebar Wrapper for Fixed Left Nav -->
+        <!-- All Documents -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send','event','research.aspx','Click','All Documents');" ng-click="filterVar('All')">
+                    <h4 class="panel-title">
+                        All Documents
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: All Documents -->
+        <!-- MSF Naturalistic Studies -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'MSF Naturalistic Studies');" ng-click="filterVar('MSF Naturalistic Studies')">
+                    <h4 class="panel-title">
+                        MSF Naturalistic Studies
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: MSF Naturalistic Studies -->
+        <!-- Training Effectiveness -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Training Effectiveness');" ng-click="filterVar('Training Effectiveness')">
+                    <h4 class="panel-title">
+                        Training Effectiveness
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Training Effectiveness -->
+        <!-- MSF Standards -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'MSF Standards');" ng-click="filterVar('MSF Standards')">
+                    <h4 class="panel-title">
+                        MSF Standards
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: MSF Standards -->
+        <!-- Rider Training Curriculum -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Rider Training Curriculum');" ng-click="filterVar('Rider Training Curriculum')">
+                    <h4 class="panel-title">
+                        Rider Training Curriculum
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Rider Training Curriculum -->
+        <!-- Professional Development -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Professional Development');" ng-click="filterVar('Professional Development')">
+                    <h4 class="panel-title">
+                        Professional Development
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Professional Development -->
+        <!-- Quality Assurance -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Quality Assurance');" ng-click="filterVar('Quality Assurance')">
+                    <h4 class="panel-title">
+                        Quality Assurance
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Quality Assurance -->
+        <!-- Licensing -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Licensing');" ng-click="filterVar('Licensing')">
+                    <h4 class="panel-title">
+                        Licensing
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Licensing -->
+        <!-- Human Factors -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Human Factors');" ng-click="filterVar('Human Factors')">
+                    <h4 class="panel-title">
+                        Human Factors
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Human Factors -->
+        <!-- Vehicle Factors -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Vehicle Factors');" ng-click="filterVar('Vehicle Factors')">
+                    <h4 class="panel-title">
+                        Vehicle Factors
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Vehicle Factors -->
+        <!-- Stake-holder Analyses -->
+        <div class="panel panel-default">
+            <div class="panel-heading sidebar-links">
+                <a onclick="ga('send', 'event', 'research.aspx', 'Click', 'Stake-holder Analyses');" ng-click="filterVar('Stake-holder Analyses')">
+                    <h4 class="panel-title">
+                        Stake-holder Analyses
+                    </h4>
+                </a>
+            </div>
+        </div>
+        <!-- //END: Stake-holder Analyses -->
+
+    </div><!-- //END: Sidebar Wrapper -->
+</div><!-- //END: Menu Panel Wrapper -->
+<!-- //END: Side Bar -->
+<!-- Main Content Panel -->
+<div id="linked-content-panel" class="col-lg-8 col-md-12 col-sm-12 col-xs-12 pull-right">
+
+    <!-- Content -->
+    <div id="docs" class="panel panel-default row">
+        <div class=" panel-heading">
+            <h3 class="panel-title">{{categoryTitle}}:</h3>
+        </div>
+        <div class="panel-body col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div ng-repeat="item in docs | filter: {Categories: categoryFilter} | orderBy:'Title'">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 img-{{item.Orientation}}">
+                    <a ng-click="analytics(item.ClickAlt)" href="{{item.DocLink}}" target="_blank">
+                        <img ng-src="{{item.ImgLink}}" alt="{{item.ClickAlt}}" />
+                        <p><span ng-bind-html="to_trusted(item.Title)"></span><br />({{item.Type}})</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //End: Content -->
+
+</div>
+<!-- //END: Main Content Panel -->
